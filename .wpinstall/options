@@ -1,0 +1,34 @@
+#!/bin/bash
+plugins_ask=('regenerate-thumbnails'
+             'developer'
+             'image-widget'
+             'duplicator'
+             'CMB2'
+             'contact-form-7'
+             'custom-post-type-ui')
+
+themes_ask=('underscores'
+            'sage'
+            'foundation-press'
+            'jointsWP'
+            'bones'
+            'HTML5-blank'
+            'Hybrid-core'
+            )
+
+themes_desc=('Lightweight, Easy, Dropdown menu on phones/tables, 2 CSS layouts (left/right sidebar)'
+             'Bootstrap, Sass, Gulp, Bower'
+             'Responsive out of the box, Foundation, Sass, Gulp, npm'
+             'Translation support, Foundation, Sass, Gulp, Bower'
+             'Responsive out of the box, Sass, Custom Post Types included'
+             'Completely blank slate, Simplistic, Fast'
+             'Framework, Breadcrumbs, Custom Gallery, Schema.Org Microdata, Support for multiple theme layouts'
+             )
+themes_url=('https://github.com/Automattic/_s/archive/master.zip'
+            'https://github.com/roots/sage/archive/master.zip'
+            'https://github.com/olefredrik/FoundationPress/archive/master.zip'
+            'https://github.com/JeremyEnglert/JointsWP/archive/master.zip'
+            'https://github.com/eddiemachado/bones/zipball/master'
+            'http://github.com/toddmotto/html5blank/archive/stable.zip'
+            'https://github.com/justintadlock/hybrid-core/zipball/master'
+            )
